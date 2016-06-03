@@ -1,0 +1,15 @@
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\Evacuation.Dal.dll.config
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\Evacuation.Dal.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\Evacuation.Dal.pdb
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\EntityFramework.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\EntityFramework.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.Migrations.Create_Db.resources
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.Migrations.R.resources
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.Migrations.R1.resources
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.Migrations.R2.resources
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.csproj.GenerateResource.Cache
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.pdb
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Dal\obj\Debug\Evacuation.Dal.csprojResolveAssemblyReference.cache

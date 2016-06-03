@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "AfterLogin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@if (Session["LogedUserName"] != null)
+{
+    <text>
+        <h3>Welcome @Session["LogedUserName"].ToString()</h3>
+    </text>    
+}

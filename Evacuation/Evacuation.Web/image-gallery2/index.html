@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html> 
+<html lang="ru"> 
+<head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Демо галереи изображений на основе Mosaic Flow</title> 
+  <link href="bootstrap-3.3.2/css/bootstrap.min.css" rel="stylesheet"> 
+  <link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" /> 
+  <style> 
+    .mosaicflow__item { 
+      padding:3px; 
+    } 
+    .mosaicflow__column { 
+      float:left; 
+    } 
+    .mosaicflow__item img { 
+      display:block; 
+      width:100%; 
+      height:auto; 
+      padding: 4px; 
+      background-color: #fff; 
+      border: 1px solid #ddd; 
+      border-radius: 4px; 
+    } 
+    .mosaicflow__item img:hover { 
+      opacity: 0.6; 
+      filter: alpha(opacity=60); 
+    } 
+  </style> 
+</head> 
+<body> 
+  <div class="container"> 
+    <div class="clearfix mosaicflow">  
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/001.jpg">
+          <img src="bootstrap3-image-gallery/001.jpg" />
+        </a> 
+      </div>
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/002.jpg">
+          <img src="bootstrap3-image-gallery/002.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/003.jpg">
+          <img src="bootstrap3-image-gallery/003.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/004.jpg">
+          <img src="bootstrap3-image-gallery/004.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/005.jpg">
+          <img src="bootstrap3-image-gallery/005.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/006.jpg">
+          <img src="bootstrap3-image-gallery/006.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/007.jpg">
+          <img src="bootstrap3-image-gallery/007.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/008.jpg">
+          <img src="bootstrap3-image-gallery/008.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/009.jpg">
+          <img src="bootstrap3-image-gallery/009.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/010.jpg">
+          <img src="bootstrap3-image-gallery/010.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/011.jpg">
+          <img src="bootstrap3-image-gallery/011.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/012.jpg">
+          <img src="bootstrap3-image-gallery/012.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/013.jpg">
+          <img src="bootstrap3-image-gallery/013.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/014.jpg">
+          <img src="bootstrap3-image-gallery/014.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/015.jpg">
+          <img src="bootstrap3-image-gallery/015.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/016.jpg">
+          <img src="bootstrap3-image-gallery/016.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/017.jpg">
+          <img src="bootstrap3-image-gallery/017.jpg" />
+        </a> 
+      </div> 
+      <div class="mosaicflow__item"> 
+        <a class="fancyimage" rel="group" href="bootstrap3-image-gallery/018.jpg">
+          <img src="bootstrap3-image-gallery/018.jpg" />
+        </a> 
+      </div> 
+    </div> 
+  </div> 
+  <script src="jquery/jquery-1.11.2.min.js"></script> 
+  <script src="bootstrap-3.3.2/js/bootstrap.min.js"></script> 
+  <script src="jmosaicflow/jquery.mosaicflow.min.js"></script> 
+  <script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script> 
+  <script type="text/javascript"> 
+    $(document).ready(function() { 
+      $("a.fancyimage").fancybox(); 
+    }); 
+  </script> 
+</body> 
+</html>

@@ -1,0 +1,27 @@
+﻿@model Evacuation.Web.Models.UserModel
+@{
+    ViewBag.Title = "AfterLogin";
+}
+
+@if (Session["LogedUserName"] != null)
+{
+    <text>
+        <h3>Welcome @Session["LogedUserName"].ToString()</h3>
+    </text>
+    <div class="container">
+        <div class="clearfix mosaicflow">
+           @foreach (var item in @ViewBag.Project as List<Evacuation.Web.Models.ProjectModel>)
+           {          
+            
+            var base64 = Convert.ToBase64String(item.Image);
+            var imgSrc = String.Format("data:image/jpeg;base64,{0}", base64);               
+           
+            <div class="mosaicflow__item">
+                <a class="fancyimage" href="@imgSrc">                    
+                    <img src='@imgSrc'/>                    
+                </a>
+            </div>
+           }
+         </div>
+    </div>
+ }

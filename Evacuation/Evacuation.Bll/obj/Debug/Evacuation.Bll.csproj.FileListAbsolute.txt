@@ -1,0 +1,17 @@
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Evacuation.Bll.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Evacuation.Bll.pdb
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\AutoMapper.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Evacuation.Dal.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Ninject.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Ninject.Web.Common.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\WebActivatorEx.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\EntityFramework.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Evacuation.Dal.pdb
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\AutoMapper.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Ninject.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\Ninject.Web.Common.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\bin\Debug\EntityFramework.xml
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\obj\Debug\Evacuation.Bll.csprojResolveAssemblyReference.cache
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\obj\Debug\Evacuation.Bll.dll
+D:\evacuation\Evacuation1-master\Evacuation\Evacuation.Bll\obj\Debug\Evacuation.Bll.pdb
